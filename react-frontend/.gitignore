@@ -9,8 +9,7 @@
 /coverage
 
 # production
-# We'll be using GH pages, so we want to check this directory in
-# /build 
+/build 
 
 # misc
 .DS_Store
